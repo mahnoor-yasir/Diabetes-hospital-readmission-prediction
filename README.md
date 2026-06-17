@@ -8,22 +8,6 @@ The project covers data acquisition, preprocessing, feature engineering, explora
 
 ---
 
-## Student Information
-
-**Name:** Mahnoor Yasir
-
-**Student ID:** F2023266580
-
-**Section:** V1
-
-**Course:** Data Science
-
-**Instructor:** Sir Abdul Jamil
-
-**University:** University of Management and Technology (UMT), Lahore
-
----
-
 ## Dataset Information
 
 **Dataset Name:** Diabetes 130-US Hospitals for Years 1999–2008
@@ -199,8 +183,3 @@ Models were evaluated using:
 4. Seaborn Documentation
    https://seaborn.pydata.org/
 
----
-
-## License
-
-This project is developed for academic and educational purposes as part of the Data Science course at UMT Lahore.
